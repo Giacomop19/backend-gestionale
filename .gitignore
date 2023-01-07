@@ -1,1 +1,4 @@
 connect.php
+/vendor
+mykey.pem
+mykey.pub
